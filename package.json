@@ -1,0 +1,19 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "feli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.2.33",
+    "multer": "^1.3.0"
+  }
+}
